@@ -11,7 +11,7 @@
   , "url" : "https://github.com/Pagemesh/hapi-config.git"
   },
   "dependencies": {
-    "js-yaml": "^3.2.7",
+    "js-yaml": "^4.1.1",
     "lodash": "^3.3.1",
     "nconf": "^0.7.1"
   },
